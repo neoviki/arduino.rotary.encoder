@@ -1,2 +1,3 @@
-Rotary encoder code for arduino.
+## Rotary Encoder based on Arduino
+
 
